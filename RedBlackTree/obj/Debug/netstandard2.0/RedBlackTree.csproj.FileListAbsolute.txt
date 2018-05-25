@@ -1,0 +1,9 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\RedBlackTree\bin\Debug\netstandard2.0\RedBlackTree.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\RedBlackTree\bin\Debug\netstandard2.0\RedBlackTree.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\RedBlackTree\bin\Debug\netstandard2.0\RedBlackTree.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\RedBlackTree\obj\Debug\netstandard2.0\RedBlackTree.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\RedBlackTree\obj\Debug\netstandard2.0\RedBlackTree.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\RedBlackTree\obj\Debug\netstandard2.0\RedBlackTree.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\RedBlackTree\obj\Debug\netstandard2.0\RedBlackTree.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\RedBlackTree\obj\Debug\netstandard2.0\RedBlackTree.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\RedBlackTree\obj\Debug\netstandard2.0\RedBlackTree.csprojAssemblyReference.cache

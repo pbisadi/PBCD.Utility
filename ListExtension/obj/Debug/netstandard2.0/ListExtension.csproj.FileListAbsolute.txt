@@ -1,0 +1,9 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ListExtension\bin\Debug\netstandard2.0\ListExtension.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ListExtension\bin\Debug\netstandard2.0\ListExtension.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ListExtension\bin\Debug\netstandard2.0\ListExtension.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ListExtension\obj\Debug\netstandard2.0\ListExtension.csprojAssemblyReference.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ListExtension\obj\Debug\netstandard2.0\ListExtension.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ListExtension\obj\Debug\netstandard2.0\ListExtension.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ListExtension\obj\Debug\netstandard2.0\ListExtension.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ListExtension\obj\Debug\netstandard2.0\ListExtension.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ListExtension\obj\Debug\netstandard2.0\ListExtension.pdb

@@ -1,0 +1,9 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Digraph\bin\Debug\netstandard2.0\Digraph.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Digraph\bin\Debug\netstandard2.0\Digraph.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Digraph\bin\Debug\netstandard2.0\Digraph.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Digraph\obj\Debug\netstandard2.0\Digraph.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Digraph\obj\Debug\netstandard2.0\Digraph.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Digraph\obj\Debug\netstandard2.0\Digraph.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Digraph\obj\Debug\netstandard2.0\Digraph.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Digraph\obj\Debug\netstandard2.0\Digraph.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Digraph\obj\Debug\netstandard2.0\Digraph.csprojAssemblyReference.cache

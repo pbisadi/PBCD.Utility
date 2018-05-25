@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.0" />
+    <PackageReference Include="MSTest.TestAdapter" Version="1.2.1" />
+    <PackageReference Include="MSTest.TestFramework" Version="1.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BinarySearchTree\BinarySearchTree.csproj" />
+    <ProjectReference Include="..\Bipartite\Bipartite.csproj" />
+    <ProjectReference Include="..\BreadthFirstPaths\BreadthFirstPaths.csproj" />
+    <ProjectReference Include="..\ConnectedComponents\ConnectedComponents.csproj" />
+    <ProjectReference Include="..\ConvexHull\ConvexHull.csproj" />
+    <ProjectReference Include="..\DepthFirstPaths\DepthFirstPaths.csproj" />
+    <ProjectReference Include="..\Digraph\Digraph.csproj" />
+    <ProjectReference Include="..\DirectedBFS\DirectedBFS.csproj" />
+    <ProjectReference Include="..\DirectedDFS\DirectedDFS.csproj" />
+    <ProjectReference Include="..\Graph\Graph.csproj" />
+    <ProjectReference Include="..\ListExtension\ListExtension.csproj" />
+    <ProjectReference Include="..\Point2D\Point2D.csproj" />
+    <ProjectReference Include="..\ProrityQueue\ProrityQueue.csproj" />
+    <ProjectReference Include="..\QuickUnion\QuickUnion.csproj" />
+    <ProjectReference Include="..\RedBlackTree\RedBlackTree.csproj" />
+    <ProjectReference Include="..\SCC_KosarajuSharir\SCC_KosarajuSharir.csproj" />
+    <ProjectReference Include="..\TopologicalSort\TopologicalSort.csproj" />
+    <ProjectReference Include="..\Trie\Trie.csproj" />
+    <ProjectReference Include="..\WeightedRandom\WeightedRandom.csproj" />
+  </ItemGroup>
+
+</Project>

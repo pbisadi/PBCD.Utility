@@ -1,0 +1,12 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\obj\Debug\netstandard2.0\DirectedBFS.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\obj\Debug\netstandard2.0\DirectedBFS.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\obj\Debug\netstandard2.0\DirectedBFS.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\bin\Debug\netstandard2.0\DirectedBFS.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\bin\Debug\netstandard2.0\DirectedBFS.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\bin\Debug\netstandard2.0\DirectedBFS.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\bin\Debug\netstandard2.0\Digraph.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\bin\Debug\netstandard2.0\Digraph.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\obj\Debug\netstandard2.0\DirectedBFS.csproj.CopyComplete
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\obj\Debug\netstandard2.0\DirectedBFS.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\obj\Debug\netstandard2.0\DirectedBFS.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DirectedBFS\obj\Debug\netstandard2.0\DirectedBFS.csprojAssemblyReference.cache

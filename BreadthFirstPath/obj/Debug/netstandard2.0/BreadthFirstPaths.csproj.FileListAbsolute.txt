@@ -1,0 +1,12 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\bin\Debug\netstandard2.0\BreadthFirstPaths.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\bin\Debug\netstandard2.0\BreadthFirstPaths.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\bin\Debug\netstandard2.0\BreadthFirstPaths.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\bin\Debug\netstandard2.0\Graph.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\bin\Debug\netstandard2.0\Graph.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\obj\Debug\netstandard2.0\BreadthFirstPaths.csprojAssemblyReference.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\obj\Debug\netstandard2.0\BreadthFirstPaths.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\obj\Debug\netstandard2.0\BreadthFirstPaths.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\obj\Debug\netstandard2.0\BreadthFirstPaths.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\obj\Debug\netstandard2.0\BreadthFirstPaths.csproj.CopyComplete
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\obj\Debug\netstandard2.0\BreadthFirstPaths.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BreadthFirstPath\obj\Debug\netstandard2.0\BreadthFirstPaths.pdb

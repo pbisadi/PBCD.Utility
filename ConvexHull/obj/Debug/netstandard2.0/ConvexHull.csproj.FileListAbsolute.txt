@@ -1,0 +1,12 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\bin\Debug\netstandard2.0\ConvexHull.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\bin\Debug\netstandard2.0\ConvexHull.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\bin\Debug\netstandard2.0\ConvexHull.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\bin\Debug\netstandard2.0\Point2D.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\bin\Debug\netstandard2.0\Point2D.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\obj\Debug\netstandard2.0\ConvexHull.csprojAssemblyReference.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\obj\Debug\netstandard2.0\ConvexHull.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\obj\Debug\netstandard2.0\ConvexHull.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\obj\Debug\netstandard2.0\ConvexHull.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\obj\Debug\netstandard2.0\ConvexHull.csproj.CopyComplete
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\obj\Debug\netstandard2.0\ConvexHull.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ConvexHull\obj\Debug\netstandard2.0\ConvexHull.pdb

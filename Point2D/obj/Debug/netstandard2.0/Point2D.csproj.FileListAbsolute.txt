@@ -1,0 +1,9 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Point2D\bin\Debug\netstandard2.0\Point2D.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Point2D\bin\Debug\netstandard2.0\Point2D.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Point2D\bin\Debug\netstandard2.0\Point2D.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Point2D\obj\Debug\netstandard2.0\Point2D.csprojAssemblyReference.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Point2D\obj\Debug\netstandard2.0\Point2D.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Point2D\obj\Debug\netstandard2.0\Point2D.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Point2D\obj\Debug\netstandard2.0\Point2D.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Point2D\obj\Debug\netstandard2.0\Point2D.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Point2D\obj\Debug\netstandard2.0\Point2D.pdb

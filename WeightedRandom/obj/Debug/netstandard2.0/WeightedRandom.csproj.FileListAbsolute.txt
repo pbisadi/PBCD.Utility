@@ -1,0 +1,14 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\obj\Debug\netstandard2.0\WeightedRandom.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\obj\Debug\netstandard2.0\WeightedRandom.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\obj\Debug\netstandard2.0\WeightedRandom.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\bin\Debug\netstandard2.0\WeightedRandom.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\bin\Debug\netstandard2.0\WeightedRandom.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\bin\Debug\netstandard2.0\WeightedRandom.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\bin\Debug\netstandard2.0\Shuffler.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\bin\Debug\netstandard2.0\Sorts.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\bin\Debug\netstandard2.0\Shuffler.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\bin\Debug\netstandard2.0\Sorts.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\obj\Debug\netstandard2.0\WeightedRandom.csprojAssemblyReference.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\obj\Debug\netstandard2.0\WeightedRandom.csproj.CopyComplete
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\obj\Debug\netstandard2.0\WeightedRandom.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\WeightedRandom\obj\Debug\netstandard2.0\WeightedRandom.pdb

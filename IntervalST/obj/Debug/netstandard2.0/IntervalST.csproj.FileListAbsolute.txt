@@ -1,0 +1,8 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\IntervalST\bin\Debug\netstandard2.0\IntervalST.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\IntervalST\bin\Debug\netstandard2.0\IntervalST.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\IntervalST\bin\Debug\netstandard2.0\IntervalST.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\IntervalST\obj\Debug\netstandard2.0\IntervalST.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\IntervalST\obj\Debug\netstandard2.0\IntervalST.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\IntervalST\obj\Debug\netstandard2.0\IntervalST.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\IntervalST\obj\Debug\netstandard2.0\IntervalST.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\IntervalST\obj\Debug\netstandard2.0\IntervalST.pdb

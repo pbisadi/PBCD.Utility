@@ -1,0 +1,9 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Range\bin\Debug\netstandard2.0\Range.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Range\bin\Debug\netstandard2.0\Range.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Range\bin\Debug\netstandard2.0\Range.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Range\obj\Debug\netstandard2.0\Range.csprojAssemblyReference.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Range\obj\Debug\netstandard2.0\Range.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Range\obj\Debug\netstandard2.0\Range.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Range\obj\Debug\netstandard2.0\Range.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Range\obj\Debug\netstandard2.0\Range.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Range\obj\Debug\netstandard2.0\Range.pdb

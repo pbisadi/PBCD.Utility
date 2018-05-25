@@ -1,0 +1,9 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Graph\bin\Debug\netstandard2.0\Graph.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Graph\bin\Debug\netstandard2.0\Graph.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Graph\bin\Debug\netstandard2.0\Graph.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Graph\obj\Debug\netstandard2.0\Graph.csprojAssemblyReference.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Graph\obj\Debug\netstandard2.0\Graph.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Graph\obj\Debug\netstandard2.0\Graph.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Graph\obj\Debug\netstandard2.0\Graph.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Graph\obj\Debug\netstandard2.0\Graph.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Graph\obj\Debug\netstandard2.0\Graph.pdb

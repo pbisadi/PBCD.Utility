@@ -1,0 +1,8 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\QuickUnion\bin\Debug\netstandard2.0\QuickUnion.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\QuickUnion\bin\Debug\netstandard2.0\QuickUnion.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\QuickUnion\bin\Debug\netstandard2.0\QuickUnion.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\QuickUnion\obj\Debug\netstandard2.0\QuickUnion.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\QuickUnion\obj\Debug\netstandard2.0\QuickUnion.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\QuickUnion\obj\Debug\netstandard2.0\QuickUnion.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\QuickUnion\obj\Debug\netstandard2.0\QuickUnion.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\QuickUnion\obj\Debug\netstandard2.0\QuickUnion.pdb

@@ -1,0 +1,8 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\SymbolTable\bin\Debug\netstandard2.0\SymbolTable.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\SymbolTable\bin\Debug\netstandard2.0\SymbolTable.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\SymbolTable\bin\Debug\netstandard2.0\SymbolTable.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\SymbolTable\obj\Debug\netstandard2.0\SymbolTable.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\SymbolTable\obj\Debug\netstandard2.0\SymbolTable.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\SymbolTable\obj\Debug\netstandard2.0\SymbolTable.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\SymbolTable\obj\Debug\netstandard2.0\SymbolTable.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\SymbolTable\obj\Debug\netstandard2.0\SymbolTable.pdb

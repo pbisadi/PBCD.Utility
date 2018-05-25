@@ -1,0 +1,9 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Trie\bin\Debug\netstandard2.0\Trie.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Trie\bin\Debug\netstandard2.0\Trie.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Trie\bin\Debug\netstandard2.0\Trie.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Trie\obj\Debug\netstandard2.0\Trie.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Trie\obj\Debug\netstandard2.0\Trie.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Trie\obj\Debug\netstandard2.0\Trie.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Trie\obj\Debug\netstandard2.0\Trie.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Trie\obj\Debug\netstandard2.0\Trie.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Trie\obj\Debug\netstandard2.0\Trie.csprojAssemblyReference.cache

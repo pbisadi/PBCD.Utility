@@ -1,0 +1,9 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ProrityQueue\bin\Debug\netstandard2.0\ProrityQueue.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ProrityQueue\bin\Debug\netstandard2.0\ProrityQueue.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ProrityQueue\bin\Debug\netstandard2.0\ProrityQueue.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ProrityQueue\obj\Debug\netstandard2.0\ProrityQueue.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ProrityQueue\obj\Debug\netstandard2.0\ProrityQueue.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ProrityQueue\obj\Debug\netstandard2.0\ProrityQueue.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ProrityQueue\obj\Debug\netstandard2.0\ProrityQueue.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ProrityQueue\obj\Debug\netstandard2.0\ProrityQueue.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\ProrityQueue\obj\Debug\netstandard2.0\ProrityQueue.csprojAssemblyReference.cache

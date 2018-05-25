@@ -1,0 +1,9 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\OST\bin\Debug\netstandard2.0\OST.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\OST\bin\Debug\netstandard2.0\OST.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\OST\bin\Debug\netstandard2.0\OST.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\OST\obj\Debug\netstandard2.0\OST.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\OST\obj\Debug\netstandard2.0\OST.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\OST\obj\Debug\netstandard2.0\OST.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\OST\obj\Debug\netstandard2.0\OST.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\OST\obj\Debug\netstandard2.0\OST.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\OST\obj\Debug\netstandard2.0\OST.csprojAssemblyReference.cache

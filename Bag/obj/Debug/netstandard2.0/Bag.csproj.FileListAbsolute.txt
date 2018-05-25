@@ -1,0 +1,8 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Bag\bin\Debug\netstandard2.0\Bag.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Bag\bin\Debug\netstandard2.0\Bag.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Bag\bin\Debug\netstandard2.0\Bag.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Bag\obj\Debug\netstandard2.0\Bag.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Bag\obj\Debug\netstandard2.0\Bag.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Bag\obj\Debug\netstandard2.0\Bag.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Bag\obj\Debug\netstandard2.0\Bag.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Bag\obj\Debug\netstandard2.0\Bag.pdb

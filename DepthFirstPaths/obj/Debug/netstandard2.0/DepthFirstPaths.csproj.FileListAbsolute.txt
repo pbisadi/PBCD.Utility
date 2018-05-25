@@ -1,0 +1,11 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\obj\Debug\netstandard2.0\DepthFirstPaths.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\obj\Debug\netstandard2.0\DepthFirstPaths.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\obj\Debug\netstandard2.0\DepthFirstPaths.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\bin\Debug\netstandard2.0\DepthFirstPaths.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\bin\Debug\netstandard2.0\DepthFirstPaths.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\bin\Debug\netstandard2.0\DepthFirstPaths.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\bin\Debug\netstandard2.0\Graph.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\bin\Debug\netstandard2.0\Graph.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\obj\Debug\netstandard2.0\DepthFirstPaths.csproj.CopyComplete
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\obj\Debug\netstandard2.0\DepthFirstPaths.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\DepthFirstPaths\obj\Debug\netstandard2.0\DepthFirstPaths.pdb

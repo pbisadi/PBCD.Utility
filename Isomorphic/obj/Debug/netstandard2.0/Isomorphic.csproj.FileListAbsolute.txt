@@ -1,0 +1,12 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\bin\Debug\netstandard2.0\Isomorphic.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\bin\Debug\netstandard2.0\Isomorphic.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\bin\Debug\netstandard2.0\Isomorphic.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\obj\Debug\netstandard2.0\Isomorphic.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\obj\Debug\netstandard2.0\Isomorphic.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\obj\Debug\netstandard2.0\Isomorphic.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\obj\Debug\netstandard2.0\Isomorphic.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\obj\Debug\netstandard2.0\Isomorphic.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\bin\Debug\netstandard2.0\Graph.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\bin\Debug\netstandard2.0\Graph.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\obj\Debug\netstandard2.0\Isomorphic.csproj.CopyComplete
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Isomorphic\obj\Debug\netstandard2.0\Isomorphic.csprojAssemblyReference.cache

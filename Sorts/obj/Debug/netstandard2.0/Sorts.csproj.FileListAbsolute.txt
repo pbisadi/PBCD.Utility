@@ -1,0 +1,12 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\obj\Debug\netstandard2.0\Sorts.csprojAssemblyReference.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\obj\Debug\netstandard2.0\Sorts.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\obj\Debug\netstandard2.0\Sorts.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\obj\Debug\netstandard2.0\Sorts.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\bin\Debug\netstandard2.0\Sorts.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\bin\Debug\netstandard2.0\Sorts.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\bin\Debug\netstandard2.0\Sorts.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\bin\Debug\netstandard2.0\Shuffler.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\bin\Debug\netstandard2.0\Shuffler.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\obj\Debug\netstandard2.0\Sorts.csproj.CopyComplete
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\obj\Debug\netstandard2.0\Sorts.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Sorts\obj\Debug\netstandard2.0\Sorts.pdb

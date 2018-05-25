@@ -1,0 +1,12 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\obj\Debug\netstandard2.0\TopologicalSort.csprojAssemblyReference.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\obj\Debug\netstandard2.0\TopologicalSort.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\obj\Debug\netstandard2.0\TopologicalSort.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\obj\Debug\netstandard2.0\TopologicalSort.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\bin\Debug\netstandard2.0\TopologicalSort.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\bin\Debug\netstandard2.0\TopologicalSort.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\bin\Debug\netstandard2.0\TopologicalSort.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\bin\Debug\netstandard2.0\Digraph.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\bin\Debug\netstandard2.0\Digraph.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\obj\Debug\netstandard2.0\TopologicalSort.csproj.CopyComplete
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\obj\Debug\netstandard2.0\TopologicalSort.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\TopologicalSort\obj\Debug\netstandard2.0\TopologicalSort.pdb

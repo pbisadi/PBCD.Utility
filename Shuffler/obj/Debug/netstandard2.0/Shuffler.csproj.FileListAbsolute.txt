@@ -1,0 +1,9 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Shuffler\bin\Debug\netstandard2.0\Shuffler.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Shuffler\bin\Debug\netstandard2.0\Shuffler.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Shuffler\bin\Debug\netstandard2.0\Shuffler.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Shuffler\obj\Debug\netstandard2.0\Shuffler.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Shuffler\obj\Debug\netstandard2.0\Shuffler.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Shuffler\obj\Debug\netstandard2.0\Shuffler.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Shuffler\obj\Debug\netstandard2.0\Shuffler.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Shuffler\obj\Debug\netstandard2.0\Shuffler.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\Shuffler\obj\Debug\netstandard2.0\Shuffler.csprojAssemblyReference.cache

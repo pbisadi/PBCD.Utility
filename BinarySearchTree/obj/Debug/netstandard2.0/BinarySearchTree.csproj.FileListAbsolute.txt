@@ -1,0 +1,8 @@
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BinarySearchTree\bin\Debug\netstandard2.0\BinarySearchTree.deps.json
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BinarySearchTree\bin\Debug\netstandard2.0\BinarySearchTree.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BinarySearchTree\bin\Debug\netstandard2.0\BinarySearchTree.pdb
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BinarySearchTree\obj\Debug\netstandard2.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BinarySearchTree\obj\Debug\netstandard2.0\BinarySearchTree.AssemblyInfoInputs.cache
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BinarySearchTree\obj\Debug\netstandard2.0\BinarySearchTree.AssemblyInfo.cs
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BinarySearchTree\obj\Debug\netstandard2.0\BinarySearchTree.dll
+c:\users\pbisa\documents\visual studio 2017\Projects\PBCD.Utility\BinarySearchTree\obj\Debug\netstandard2.0\BinarySearchTree.pdb
