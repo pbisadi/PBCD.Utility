@@ -2,6 +2,21 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>PBCD.DataStructures.Trie</AssemblyName>
+    <RootNamespace>PBCD.DataStructures.Trie</RootNamespace>
+    <Version>1.0.0</Version>
+    <Description>This TRIE works with any chain of keys (IEnumerable&lt;TKey&gt;) and not just strings. Also, in additional to regular TRIE functions, this one returns number of matching prefixes in O(l) where l is the length of the prefix.</Description>
+    <Copyright>Copyright ©  2013</Copyright>
+    <PackageLicenseUrl>https://opensource.org/licenses/GPL-3.0</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/pbisadi/PBCD.Utility</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/pbisadi/PBCD.Utility/tree/master/Trie</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>Trie SearchTree DataStructure</PackageTags>
+    <PackageReleaseNotes>The feature of this TRIE tree is that you can use any IEnumerable&lt;TKey&gt; (and not only chars) for storing data. It also, has a counting query method.</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Pouya Bisadi</Authors>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </PropertyGroup>
 
 </Project>

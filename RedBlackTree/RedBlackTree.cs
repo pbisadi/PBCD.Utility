@@ -10,17 +10,17 @@ namespace PBCD.Algorithms.SearchTree
     /// <summary>
     /// It is a Left Leaning Red-Black tree (LLRB Tree)
     /// </summary>
-    public class RedBlackTree<Key, Value>
-        where Key : IComparable
-        where Value : class
+    public class RedBlackTree<TKey, TValue>
+        where TKey : IComparable
+        where TValue : class
     {
         protected class Node
         {
-            public Key key;
-            public Value value;
+            public TKey key;
+            public TValue value;
             public Node left, right;
             public int Count;   //Number of nodes in the tree rooted by this node
-            public Node(Key key, Value value)
+            public Node(TKey key, TValue value)
             {
                 this.key = key;
                 this.value = value;
@@ -34,7 +34,7 @@ namespace PBCD.Algorithms.SearchTree
         private static readonly bool RED = true;
         private static readonly bool BLACK = false;
 
-        public Value this[Key key]
+        public TValue this[TKey key]
         {
             get
             {
@@ -47,7 +47,7 @@ namespace PBCD.Algorithms.SearchTree
             }
         }
 
-        private Node Get(Node x, Key key)
+        private Node Get(Node x, TKey key)
         {
             while (x != null)
             {
@@ -59,7 +59,7 @@ namespace PBCD.Algorithms.SearchTree
             return null;
         }
 
-        private Node Put(Node x, Key key, Value value)
+        private Node Put(Node x, TKey key, TValue value)
         {
             if (x == null) return new Node(key, value);
 
@@ -111,14 +111,14 @@ namespace PBCD.Algorithms.SearchTree
             h.right.Color = !h.right.Color;
         }
 
-        public IEnumerable<Key> Enumerator()
+        public IEnumerable<TKey> Enumerator()
         {
-            Queue<Key> q = new Queue<Key>();
+            Queue<TKey> q = new Queue<TKey>();
             InOrder(root, q);
             return q;
         }
 
-        private void InOrder(Node x, Queue<Key> q)
+        private void InOrder(Node x, Queue<TKey> q)
         {
             if (x == null) return;
             InOrder(x.left, q);
@@ -126,14 +126,14 @@ namespace PBCD.Algorithms.SearchTree
             InOrder(x.right, q);
         }
 
-        public Tuple<Key, Value> Floor(Key key)
+        public Tuple<TKey, TValue> Floor(TKey key)
         {
             Node x = Floor(root, key);
             if (x == null) return null;
-            return new Tuple<Key, Value>(x.key, x.value);
+            return new Tuple<TKey, TValue>(x.key, x.value);
         }
 
-        private Node Floor(Node x, Key key)
+        private Node Floor(Node x, TKey key)
         {
             if (x == null) return null;
             int cmp = key.CompareTo(x.key);
@@ -155,10 +155,10 @@ namespace PBCD.Algorithms.SearchTree
             return x.Count;
         }
 
-        public Tuple<Key, Value> Min()
+        public Tuple<TKey, TValue> Min()
         {
             var x = Min(root);
-            return new Tuple<Key, Value>(x.key, x.value);
+            return new Tuple<TKey, TValue>(x.key, x.value);
         }
 
         private Node Min(Node x)
@@ -168,10 +168,10 @@ namespace PBCD.Algorithms.SearchTree
             return x;
         }
 
-        public Tuple<Key, Value> Max()
+        public Tuple<TKey, TValue> Max()
         {
             var x = Max(root);
-            return new Tuple<Key, Value>(x.key, x.value);
+            return new Tuple<TKey, TValue>(x.key, x.value);
         }
 
         private Node Max(Node x)
@@ -181,10 +181,10 @@ namespace PBCD.Algorithms.SearchTree
             return x;
         }
 
-        public int Rank(Key key)
+        public int Rank(TKey key)
         { return Rank(key, root); }
 
-        private int Rank(Key key, Node x)
+        private int Rank(TKey key, Node x)
         {
             if (x == null) return 0;
             int cmp = key.CompareTo(x.key);
@@ -238,16 +238,16 @@ namespace PBCD.Algorithms.SearchTree
             return x;
         }
 
-        public void Delete(Key key)
+        public void Delete(TKey key)
         {
             root = Delete(root, key);
             root.Color = BLACK;
         }
 
         /// <summary>
-        /// Use Hilbbard Deletion
+        /// Use Hibbard Deletion
         /// </summary>
-        private Node Delete(Node h, Key key)
+        private Node Delete(Node h, TKey key)
         {
             if (h == null) return null;
             int cmp = key.CompareTo(h.key);

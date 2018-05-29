@@ -10,11 +10,11 @@ namespace PBCD.Algorithms.DataStructure
 	/// It is a generic Trie DS.
 	/// For using it as a dictionary, instanciate it with char as key
 	/// </summary>
-	/// <typeparam name="key"></typeparam>
-	/// <typeparam name="value"></typeparam>
-	public class Trie<key,value>
+	/// <typeparam name="TKey"></typeparam>
+	/// <typeparam name="TValue"></typeparam>
+	public class Trie<TKey,TValue>
 	{
-		protected TrieNode _root = new TrieNode(default(key));
+		protected TrieNode _root = new TrieNode(default(TKey));
 
 		/// <summary>
 		/// Add the new pair of keys and value to Trie.
@@ -22,10 +22,10 @@ namespace PBCD.Algorithms.DataStructure
 		/// </summary>
 		/// <param name="keys">A chain of keys. Ex. String of chars</param>
 		/// <param name="value"></param>
-		public void Add(IEnumerable<key> keys, value value)
+		public void Add(IEnumerable<TKey> keys, TValue value)
 		{
 			var n = _root;
-			foreach (key k in keys)
+			foreach (TKey k in keys)
 			{
 				n.AddChild(k);	// do not add it if alrady exists
 				n = n.Children[k];
@@ -37,7 +37,7 @@ namespace PBCD.Algorithms.DataStructure
 		/// Remove the value from the data structure
 		/// </summary>
 		/// <param name="keys">A chain of keys. Ex. String of chars</param>
-		public void Remove(IEnumerable<key> keys)
+		public void Remove(IEnumerable<TKey> keys)
 		{
 			FindNode(keys, _root).ClearValue();
 		}
@@ -47,11 +47,11 @@ namespace PBCD.Algorithms.DataStructure
 		/// </summary>
 		/// <param name="key">A chain of keys. Ex. String of chars</param>
 		/// <returns>Return the value or default/null if it is not avaiable</returns>
-		public value Find(IEnumerable<key> key)
+		public TValue Find(IEnumerable<TKey> key)
 		{
 			var result = FindNode(key, _root);
 			if (result != null) return result.Value;
-			return default(value);
+			return default(TValue);
 		}
 
 		/// <summary>
@@ -61,9 +61,9 @@ namespace PBCD.Algorithms.DataStructure
 		/// <param name="keys">A chain of keys. Ex. String of chars</param>
 		/// <param name="n">The starting node for search</param>
 		/// <returns></returns>
-		protected TrieNode FindNode(IEnumerable<key> keys, TrieNode n)
+		protected TrieNode FindNode(IEnumerable<TKey> keys, TrieNode n)
 		{
-			foreach (key k in keys)
+			foreach (TKey k in keys)
 			{
 				if (n.Children.ContainsKey(k))
 					n = n.Children[k];
@@ -78,10 +78,10 @@ namespace PBCD.Algorithms.DataStructure
 		/// </summary>
 		/// <param name="keys">A chain of keys. Ex. String of chars</param>
 		/// <returns></returns>
-		public IEnumerable<value> FindAllStartingWith(IEnumerable<key> keys)
+		public IEnumerable<TValue> FindAllStartingWith(IEnumerable<TKey> keys)
 		{
 			var q = new Queue<TrieNode>();
-			var result = new List<value>();
+			var result = new List<TValue>();
 			var n = FindNode(keys, _root);
 			if (n == null) return result;
 
@@ -103,7 +103,7 @@ namespace PBCD.Algorithms.DataStructure
 		/// </summary>
 		/// <param name="keys">A chain of keys. Ex. String of chars</param>
 		/// <returns></returns>
-		public int CountAllStartingWith(IEnumerable<key> keys)
+		public int CountAllStartingWith(IEnumerable<TKey> keys)
 		{
 			var n = FindNode(keys, _root);
 			if (n == null) return 0;
@@ -112,10 +112,10 @@ namespace PBCD.Algorithms.DataStructure
 
 		protected class TrieNode
 		{
-			public TrieNode(key key) { _key = key; }
+			public TrieNode(TKey key) { _key = key; }
 
-			private value _Value;
-			public value Value
+			private TValue _Value;
+			public TValue Value
 			{
 				get { return _Value; }
 				set {
@@ -130,11 +130,11 @@ namespace PBCD.Algorithms.DataStructure
 
 			public bool IsValueNode { get; set; }
 
-			private key _key;
-			public key Key { get { return _key; } }
+			private TKey _key;
+			public TKey Key { get { return _key; } }
 
-			Dictionary<key, TrieNode> _children = new Dictionary<key, TrieNode>();
-			public Dictionary<key, TrieNode> Children { get { return _children; } }
+			Dictionary<TKey, TrieNode> _children = new Dictionary<TKey, TrieNode>();
+			public Dictionary<TKey, TrieNode> Children { get { return _children; } }
 
 			public int SubTreeValueCount { get; internal set; }
 
@@ -142,7 +142,7 @@ namespace PBCD.Algorithms.DataStructure
 
 			public void ClearValue()
 			{
-				_Value = default(value);
+				_Value = default(TValue);
 				UpdateCountToTop(-1);
 				IsValueNode = false;
 			}
@@ -151,7 +151,7 @@ namespace PBCD.Algorithms.DataStructure
 			/// Do not adds it if alrady exists
 			/// </summary>
 			/// <param name="k">Key</param>
-			public void AddChild(key k)
+			public void AddChild(TKey k)
 			{
 				if (!_children.ContainsKey(k))
 				{

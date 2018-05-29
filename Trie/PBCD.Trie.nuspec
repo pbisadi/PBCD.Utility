@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://opensource.org/licenses/GPL-3.0</licenseUrl>
+    <projectUrl>https://github.com/pbisadi/PBCD.Utility/tree/master/Trie</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>The feature of this TRIE tree is that you can use any IEnumerable<TKey> (and not only chars) for storing data. It also, has a counting query method.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Trie SearchTree DataStructure</tags>
+    <files>
+      <file src="lib\**" target="lib/{framework name}[{version}]" />
+    </files>
+  </metadata>
+</package>

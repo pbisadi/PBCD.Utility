@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace PBCD.Algorithms.DataStructure
 {
     //TODO: Use flexible array size like stack implementation
-    public abstract class PriorityQueue<Key> where  Key : IComparable
+    public abstract class PriorityQueue<TKey> where  TKey : IComparable
     {
-        protected Tuple<Key, object>[] pq = new Tuple<Key,object>[4]; //4 rather than starting from 1
+        protected Tuple<TKey, object>[] pq = new Tuple<TKey,object>[4]; //4 rather than starting from 1
         protected int N = 0;  //Size of the heap
 
         /// <summary>
@@ -21,16 +21,16 @@ namespace PBCD.Algorithms.DataStructure
         /// create a priority queue with given tuples
         /// </summary>
         /// <param name="a"></param>
-        public PriorityQueue(Tuple<Key,object>[] a)
+        public PriorityQueue(Tuple<TKey,object>[] a)
         {
             pq = a;
             N = a.Length;
         }
 
-        public void Insert(Key k, Object value)
+        public void Insert(TKey k, Object value)
         {
             ExpandSize();
-            pq[++N] = new Tuple<Key, object>(k, value);
+            pq[++N] = new Tuple<TKey, object>(k, value);
             Swim(N);
         }
 
@@ -38,7 +38,7 @@ namespace PBCD.Algorithms.DataStructure
         /// Return and remove largest/smallest key
         /// </summary>
         /// <returns></returns>
-        public Tuple<Key, object> DelTop()
+        public Tuple<TKey, object> DelTop()
         {
             if (this.IsEmpty())
                 throw new InvalidOperationException("The priority queue is empty.");
@@ -55,7 +55,7 @@ namespace PBCD.Algorithms.DataStructure
             return N == 0;
         }
 
-        public Tuple<Key, object> Top()
+        public Tuple<TKey, object> Top()
         {
             return pq[1];
         }
@@ -110,7 +110,7 @@ namespace PBCD.Algorithms.DataStructure
         {
             if (pq.Length - 1 == N )
             {
-                var temp = new Tuple<Key, object>[2*N];
+                var temp = new Tuple<TKey, object>[2*N];
                 pq.CopyTo(temp, 0);
                 pq = temp;
             }
@@ -123,7 +123,7 @@ namespace PBCD.Algorithms.DataStructure
         {
             if (pq.Length-1 < N / 4)
             {
-                var temp = new Tuple<Key, object>[N/2];
+                var temp = new Tuple<TKey, object>[N/2];
                 pq.CopyTo(temp, 0);
                 pq = temp;
             }
