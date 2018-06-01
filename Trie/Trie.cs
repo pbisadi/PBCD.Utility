@@ -8,7 +8,7 @@ namespace PBCD.Algorithms.DataStructure
 {
 	/// <summary>
 	/// It is a generic Trie DS.
-	/// For using it as a dictionary, instanciate it with char as key
+	/// For using it as a dictionary, instantiate it with char as key
 	/// </summary>
 	/// <typeparam name="TKey"></typeparam>
 	/// <typeparam name="TValue"></typeparam>
@@ -27,7 +27,7 @@ namespace PBCD.Algorithms.DataStructure
 			var n = _root;
 			foreach (TKey k in keys)
 			{
-				n.AddChild(k);	// do not add it if alrady exists
+				n.AddChild(k);	// do not add it if already exists
 				n = n.Children[k];
 			}
 			n.Value = value;
@@ -46,12 +46,24 @@ namespace PBCD.Algorithms.DataStructure
 		/// Find the value added exactly by provided key
 		/// </summary>
 		/// <param name="key">A chain of keys. Ex. String of chars</param>
-		/// <returns>Return the value or default/null if it is not avaiable</returns>
+		/// <returns>Return the value or default/null if it is not available</returns>
 		public TValue Find(IEnumerable<TKey> keys)
 		{
 			var result = FindNode(keys, _root);
 			if (result != null) return result.Value;
 			return default(TValue);
+		}
+
+
+		/// <summary>
+		/// Get or set the value by a chain of TKeys
+		/// </summary>
+		/// <param name="index">A chain of keys. Ex. String of chars</param>
+		/// <returns>Return the value or default/null if it is not available</returns>
+		public TValue this[IEnumerable<TKey> index]
+		{
+			get { return Find(index); }
+			set { Add(index, value); }
 		}
 
 		/// <summary>
@@ -74,7 +86,7 @@ namespace PBCD.Algorithms.DataStructure
 		}
 
 		/// <summary>
-		/// Scan the whole tree and find all values that their chand of keys are starting with provided keys.
+		/// Scan the whole tree and find all values that their chain of keys are starting with provided keys.
 		/// </summary>
 		/// <param name="keys">A chain of keys. Ex. String of chars</param>
 		/// <returns></returns>
@@ -148,7 +160,7 @@ namespace PBCD.Algorithms.DataStructure
 			}
 
 			/// <summary>
-			/// Do not adds it if alrady exists
+			/// Do not adds it if already exists
 			/// </summary>
 			/// <param name="k">Key</param>
 			public void AddChild(TKey k)

@@ -6,7 +6,7 @@
 	<Title>PBCD.DataStructures.Trie</Title>
 	<Summary>A generic Trie (IEnumerable&lt;TKey&gt;) with prifix count method.</Summary>
     <RootNamespace>PBCD.DataStructures.Trie</RootNamespace>
-    <Version>1.0.0.1</Version>
+    <Version>1.0.1.0</Version>
     <Description>This TRIE works with any chain of keys (IEnumerable&lt;TKey&gt;) and not just strings. Also, in addition to regular TRIE functions, this one returns the number of matching prefixes in O(l) where l is the length of the prefix.</Description>
     <Copyright>Copyright ©  2013</Copyright>
     <PackageLicenseUrl>https://opensource.org/licenses/GPL-3.0</PackageLicenseUrl>
@@ -14,11 +14,15 @@
     <RepositoryUrl>https://github.com/pbisadi/PBCD.Utility/tree/master/Trie</RepositoryUrl>
     <RepositoryType>Github</RepositoryType>
     <PackageTags>Trie SearchTree DataStructure</PackageTags>
-    <PackageReleaseNotes>The feature of this TRIE tree is that you can use any IEnumerable&lt;TKey&gt; (and not only chars) for storing data. It also, has a counting query method.</PackageReleaseNotes>
+    <PackageReleaseNotes>The feature of this TRIE tree is that you can use any IEnumerable&lt;TKey&gt; (and not only chars) for storing data. It also, has a counting query method.
+In version 1.0.1 an indexer is added so you can use the trie like this:
+var T = new Trie&lt;string, bool&gt;();
+T["PBCD"] = true;
+If (T["PBCD"]) ...</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Authors>Pouya Bisadi</Authors>
-    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
   </PropertyGroup>
 
 </Project>

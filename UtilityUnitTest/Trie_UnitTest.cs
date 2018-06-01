@@ -19,6 +19,15 @@ namespace PBCD.Algorithms.DataStructure_UnitTest
 		}
 
 		[TestMethod]
+		public void Trie_Indexer()
+		{
+			var T = new Trie<char, bool>();
+			T["Test"] = true;
+			Assert.AreEqual(T["Test"], true);
+			Assert.AreEqual(T["something else"], false);
+		}
+
+		[TestMethod]
 		public void Trie_FindAllStartingWith()
 		{
 			var T = new Trie<char, bool>();
