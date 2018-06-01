@@ -47,9 +47,9 @@ namespace PBCD.Algorithms.DataStructure
 		/// </summary>
 		/// <param name="key">A chain of keys. Ex. String of chars</param>
 		/// <returns>Return the value or default/null if it is not avaiable</returns>
-		public TValue Find(IEnumerable<TKey> key)
+		public TValue Find(IEnumerable<TKey> keys)
 		{
-			var result = FindNode(key, _root);
+			var result = FindNode(keys, _root);
 			if (result != null) return result.Value;
 			return default(TValue);
 		}

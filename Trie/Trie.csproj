@@ -3,9 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>PBCD.DataStructures.Trie</AssemblyName>
+	<Title>PBCD.DataStructures.Trie</Title>
+	<Summary>A generic Trie (IEnumerable&lt;TKey&gt;) with prifix count method.</Summary>
     <RootNamespace>PBCD.DataStructures.Trie</RootNamespace>
-    <Version>1.0.0</Version>
-    <Description>This TRIE works with any chain of keys (IEnumerable&lt;TKey&gt;) and not just strings. Also, in additional to regular TRIE functions, this one returns number of matching prefixes in O(l) where l is the length of the prefix.</Description>
+    <Version>1.0.0.1</Version>
+    <Description>This TRIE works with any chain of keys (IEnumerable&lt;TKey&gt;) and not just strings. Also, in addition to regular TRIE functions, this one returns the number of matching prefixes in O(l) where l is the length of the prefix.</Description>
     <Copyright>Copyright ©  2013</Copyright>
     <PackageLicenseUrl>https://opensource.org/licenses/GPL-3.0</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/pbisadi/PBCD.Utility</PackageProjectUrl>
@@ -16,7 +18,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Authors>Pouya Bisadi</Authors>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
   </PropertyGroup>
 
 </Project>
